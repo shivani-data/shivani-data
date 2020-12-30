@@ -1,6 +1,6 @@
-### **Hi there! 👋 Welcome to my Github Page**
+### __Hi there! 👋 Welcome to my Github Page__
 
-### hope u like it
+
 
 
 <!--
