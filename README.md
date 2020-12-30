@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my Github Page
 
-## hope u like it
+
 
 
 <!--
