@@ -4,8 +4,9 @@
 
 I'm Shivani Agrawal from India &#x1F1EE;&#x1F1F3; , and I am learning development and java. I really enjoying learning new things💫
 
-
-Skills: REACT / JS / HTML / CSS
+#### Skills
+* ⚛ MERN STACK
+* 💻 HTML , CSS , JS
 
 - 🌱 I’m currently learning Java and data structure 
 - 📫 How to reach me: 📧 shivania812@gmail.com 
