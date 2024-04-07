@@ -9,10 +9,9 @@
 * ⚛ MERN STACK
 * 💻 HTML , CSS , JS
 
-
-✩ 🌱 I’m currently learning Java and data structure 
-✩ 📫 How to reach me: 📧 shivania812@gmail.com 
-✩ ⚡ More About Me : 🎦 Anime lover ( First anime - Death note , Favorite anime - Naruto ) || ♟ Chess player (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 || 🎨 Love doing Art & Craft || 🪈Flute learner || 🏏 Cricket Lover 
+🌱 I’m currently learning Java and data structure \n
+📫 How to reach me: 📧 shivania812@gmail.com \n
+⚡ More About Me : 🎦 Anime lover ( First anime - Death note , Favorite anime - Naruto ) || ♟ Chess player (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 || 🎨 Love doing Art & Craft || 🪈Flute learner || 🏏 Cricket Lover 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivani-data)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-agrawal-74228a1a7//) 
