@@ -13,5 +13,5 @@ I'm Shivani Agrawal from India &#x1F1EE;&#x1F1F3; , and I am learning developmen
 - ⚡ Fun fact: Anime lover , Chess player (Beginner) , Love doing Art & Craft , Flute learner  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivani-data)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-agrawal-74228a1a7//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivani-data)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-agrawal-74228a1a7//)  ♟ https://www.chess.com/member/shivani_2006
 
