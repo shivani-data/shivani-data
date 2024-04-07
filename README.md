@@ -2,7 +2,7 @@
 #### Development 💻
 ![Development 💻](https://media.licdn.com/dms/image/D4D16AQFL9S2zG_zmzg/profile-displaybackgroundimage-shrink_350_1400/0/1681217514515?e=1718236800&v=beta&t=AFqK0DVHsjxLYPp_F-NDTHGjyi-e2qZ2eDXHfiWmX2w)
 
-♡･ᴗ･`♡  I'm Shivani Agrawal from India &#x1F1EE;&#x1F1F3;  ♡･ᴗ･`♡  
+♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
 ✩ I really enjoying learning new things💫🦋🧿
 
 #### Skills
