@@ -1,17 +1,17 @@
 ###  Hi there 👋, Welcome to my GitHub 😄
-#### Development 💻
-![Development 💻](https://media.licdn.com/dms/image/D4D16AQFL9S2zG_zmzg/profile-displaybackgroundimage-shrink_350_1400/0/1681217514515?e=1718236800&v=beta&t=AFqK0DVHsjxLYPp_F-NDTHGjyi-e2qZ2eDXHfiWmX2w)
+#### Data Science, AI, ML 💻
+![Data Science, AI, ML 💻](https://miro.medium.com/v2/resize:fit:547/1*cVIt9jh_p7b-cizfrDPl-Q.png)
 
 ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
 ✩ I really enjoying learning new things💫🦋🧿
 
 #### Skills
-* ⚛ MERN STACK
-* 💻 HTML , CSS , JS
+* Data Analytics - Excel , SQL , Python (Pandas , Numpy)
+* Visualization - Excel, Python (Matplotlib)
+* Programming - Python
 
 
-
-● 🌱 I’m currently learning Java and data structure <br />
+● 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
 ● 📫 How to reach me: 📧 shivania812@gmail.com <br />
 ● ⚡ More About Me : <br />  &#160; 🎦 Anime lover ( First anime - Death note , Favorite anime - Naruto ) <br /> &#160; ♟ Chess player (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 <br />  &#160; 🎨 Love doing Art & Craft <br /> &#160; 🪈Flute learner <br /> &#160; 🏏 Cricket Lover 
 
