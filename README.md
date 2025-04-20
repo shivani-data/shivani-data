@@ -23,18 +23,19 @@
 📫 How to reach me:  📧 **shivania812@gmail.com** <br />
 
 <br/>
+<br/>
 
 ⚡ **More About Me** : <br /> 
 <br/>
-&#160;  🍿*Anime lover* ( First anime - Death note , Favorite anime - Naruto )  ⛩️🌸🍥☯🍜 <br />
+&#160;  🍿 *Anime lover* ( First anime - Death note , Favorite anime - Naruto )  ⛩️🌸🍥☯🍜 <br />
 <br/>
-&#160;  ♟*Chess player* (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 ♔♕♖♗♘♙ <br /> 
+&#160;  ♟ *Chess player* (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 ♔♕♖♗♘♙ <br /> 
 <br/>
-&#160;  ✂️*Art & Craft* -ˋˏ✄┈┈┈┈<br />
+&#160;  ✂️ *Art & Craft* -ˋˏ✄┈┈┈┈<br />
 <br/>
-&#160;  🪈*Flute learner* ‧₊˚♪ 𝄞₊˚⊹ <br /> 
+&#160;  🪈 *Flute learner* ‧₊˚♪ 𝄞₊˚⊹ <br /> 
 <br/>
-&#160;  🏏*Cricket Lover*  ☄
+&#160;  🏏 *Cricket Lover*  ☄
 <br/>
 
 <br/>
