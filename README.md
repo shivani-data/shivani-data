@@ -1,5 +1,5 @@
 ##  Hi there 👋, Welcome to my GitHub 😄
-/n
+
 #### Data Science, AI, ML 💻 
 <img src="Robo_unsplash.jpg" alt="Hello_Robo" width="120" height="120" style="vertical-align:middle;margin:0px 50px">
 
@@ -18,6 +18,7 @@
 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
 💻🎀📚 Pursuing Data Science and Analytics course in Imarticus Learning <br />
 📫 How to reach me: 📧 shivania812@gmail.com <br />
+
 
 ⚡ More About Me : <br /> 
 &#160; 🎦  Anime lover ( First anime - Death note , Favorite anime - Naruto )  ⛩️🌸🍥☯🍜 <br />
