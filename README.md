@@ -5,14 +5,14 @@
 
 
 ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
-✩ I really enjoying learning new things💫🦋🧿
+✩ *I really enjoying learning new things* 💫🦋🧿
 
 
-#### Skills
-* **Data Analytics** - Excel , SQL , Python (Pandas , Numpy)
-* **Visualization** - Excel, Python (Matplotlib)
-* **Programming** - Python
-* **Interest** - Agentic AI, Generative AI, Traditional ML, Data Analysis
+#### **Skills**
+* ***Data Analytics*** - Excel , SQL , Python (Pandas , Numpy)
+* ***Visualization*** - Excel, Python (Matplotlib)
+* ***Programming*** - Python
+* ***Interest*** - Agentic AI, Generative AI, Traditional ML, Data Analysis
 
 
 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
@@ -22,12 +22,12 @@
 📫 How to reach me:  📧 **shivania812@gmail.com** <br />
 
 
-⚡ More About Me : <br /> 
-&#160;  *Anime lover* ( First anime - Death note , Favorite anime - Naruto )  ⛩️🌸🍥☯🍜 <br />
-&#160;  *Chess player* (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 ♟ <br /> 
-&#160;  *Art & Craft* -ˋˏ✄┈┈┈┈<br />
-&#160;  *Flute learner* 🪈‧₊˚♪ 𝄞₊˚⊹ <br /> 
-&#160;  *Cricket Lover* 🏏 ☄
+⚡ **More About Me** : <br /> 
+&#160;  🍿*Anime lover* ( First anime - Death note , Favorite anime - Naruto )  ⛩️🌸🍥☯🍜 <br />
+&#160;  ♟*Chess player* (Beginner) Wanna play-> https://www.chess.com/member/shivani_2006 ♔♕♖♗♘♙ <br /> 
+&#160;  ✂️*Art & Craft* -ˋˏ✄┈┈┈┈<br />
+&#160;  🪈*Flute learner* ‧₊˚♪ 𝄞₊˚⊹ <br /> 
+&#160;  🏏*Cricket Lover*  ☄
 
 
 ｇｉｔｈｕｂ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivani-data) <br />
