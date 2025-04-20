@@ -14,8 +14,6 @@
 * ***Interest*** - Agentic AI, Generative AI, Traditional ML, Data Analysis
 <br/>
 <br/>
-
-
 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
 
 💻🎀📚 Pursuing Data Science and Analytics course in Imarticus Learning <br />
