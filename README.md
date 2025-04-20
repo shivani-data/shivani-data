@@ -7,7 +7,7 @@
 <br/>
 
 
-### **Skills**
+### **Skills** :
 * ***Data Analytics*** - Excel , SQL , Python (Pandas , Numpy)
 * ***Visualization*** - Excel, Python (Matplotlib)
 * ***Programming*** - Python
