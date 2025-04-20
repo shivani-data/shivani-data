@@ -1,6 +1,6 @@
 ###  Hi there 👋, Welcome to my GitHub 😄
 #### Data Science, AI, ML 💻
-![Data Science, AI, ML 💻]([https://miro.medium.com/v2/resize:fit:547/1*cVIt9jh_p7b-cizfrDPl-Q.png](https://github.com/shivani-data/shivani-data/blob/main/Data_science_splash.jpg))
+![Data Science, AI, ML 💻](Data_science_splash.jpg)
 
 ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
 ✩ I really enjoying learning new things💫🦋🧿
