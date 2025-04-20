@@ -1,6 +1,6 @@
 ###  Hi there 👋, Welcome to my GitHub 😄
-#### Data Science, AI, ML 💻
-<img src="Robo_unsplash.jpg" alt="Hello_Robo" width="120" height="120">
+#### Data Science, AI, ML 💻 
+<img src="Robo_unsplash.jpg" alt="Hello_Robo" width="120" height="120" style="vertical-align:middle;margin:0px 50px">
 
 ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
 ✩ I really enjoying learning new things💫🦋🧿
