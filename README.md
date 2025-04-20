@@ -20,7 +20,6 @@
 📫 How to reach me:  📧 **shivania812@gmail.com** <br />
 
 <br/>
-<br/>
 
 ⚡ **More About Me** : <br /> 
 <br/>
