@@ -4,7 +4,7 @@
  
 ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  
 ✩ *I love to explore new things* 💫🦋🧿 
-<br/>
+<br/> 
 
 ### **Skills** :
 * ***Data Analytics*** - Excel , SQL , Python (Pandas , Numpy)
