@@ -6,14 +6,13 @@
 ✩ *I love to explore new things* 💫🦋🧿 
 <br/>
 
-
 ### **Skills** :
 * ***Data Analytics*** - Excel , SQL , Python (Pandas , Numpy)
 * ***Visualization*** - Excel, Python (Matplotlib)
 * ***Programming*** - Python
 * ***Interest*** - Agentic AI, Generative AI, Traditional ML, Data Analysis
 <br/>
-<br/>
+
 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
 
 💻🎀📚 Pursuing Data Science and Analytics course in Imarticus Learning <br />
