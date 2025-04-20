@@ -2,7 +2,7 @@
 
  <img src="Robo_unsplash.jpg" alt="Hello_Robo" width="120" height="120" style="vertical-align:middle;margin:0px 50px">
 <span> ♡･ᴗ･`♡  I'm Shivani Agrawal from India  ♡･ᴗ･`♡  </span>
-<span>✩ *I really enjoying learning new things* 💫🦋🧿 </span>
+✩ *I really enjoying learning new things* 💫🦋🧿 </span>
 <br/>
 
 
