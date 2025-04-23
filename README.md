@@ -36,7 +36,6 @@
 
 <br/>
 
-𝚍𝚒𝚜𝚌𝚘𝚛𝚍 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='github' height='40'> username -> shivani8790 <br />
 ｇｉｔｈｕｂ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivani-data) <br />
-LİNKEDİN [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-agrawal-74228a1a7//) 
-
+LİNKEDİN [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-agrawal-74228a1a7//) <br />
+𝚍𝚒𝚜𝚌𝚘𝚛𝚍 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='github' height='40'>    username -> shivani8790 
