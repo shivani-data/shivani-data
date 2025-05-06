@@ -10,7 +10,7 @@
 * ***Data Analytics*** - Excel , SQL , Python (Pandas , Numpy)
 * ***Visualization*** - Excel, Python (Matplotlib)
 * ***Programming*** - Python
-* ***Interest*** - Agentic AI, Generative AI, Traditional ML, Data Analysis
+* ***Interest*** - Agentic AI,  Data Analysis, Data Engineering
 <br/>
 
 🌱 I’m currently learning Data Science, Machine Leaning, AI, Python and data structure <br />
